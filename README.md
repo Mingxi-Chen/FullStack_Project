@@ -15,3 +15,7 @@
 <br>User Interactions: Registered users have the ability to post questions and provide answers. They can also engage with the content by upvoting or downvoting questions and answers.
 <br>Tagging System: Questions are organized with tags, allowing users to easily find and browse questions under specific categories.
 <br>More waiting for you explore...
+<br>
+## Pictures:
+<br>You can visit the folder(PicturesOfProject) to see the visualized project. Below is one of pictures
+<img width="1512" alt="Question_page" src="https://github.com/Mingxi-Chen/FullStack_Project/assets/99438536/86f90a0e-6641-4f4b-8485-b58c1e6b6ad6">
